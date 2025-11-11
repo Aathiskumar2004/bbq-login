@@ -1,0 +1,10 @@
+/* body{
+  margin: 0;
+} */
+
+header {
+  background: lightblue;
+  padding: 1em;
+  width: 50vw;
+  height: 75vh;
+}
